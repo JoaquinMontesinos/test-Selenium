@@ -13,7 +13,7 @@ Steps of Selenium Tests:
 - You need to specify the path where your chromedriver is located: 
 - Download chromedriver for your desired platform: https://sites.google.com/a/chromium.org/chromedriver/downloads
 - Place chromedriver on your system path, or where your code is. 
-''' browser = webdriver.Chrome('C:/Users/JM/Documents/chromedriver') '''
+``` browser = webdriver.Chrome('C:/Users/JM/Documents/chromedriver') ```
 - Look here for more info in case it doesn't run: https://stackoverflow.com/questions/42478591/python-selenium-chrome-webdriver
 
  Sample test:  
